@@ -1,4 +1,4 @@
-# text_prediction
+# shiny-text-predictor
 What word will be typed next?
 
 ## Overview
