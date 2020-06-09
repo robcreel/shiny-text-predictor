@@ -11,3 +11,7 @@ This prediction model was built in R using the `ngram` package.  The model works
 
 This Shiny App was written by Rob Creel for the Data Science Capstone course taught through Coursera by faculty of the Biostatistics Department at the Johns Hopkins Bloomberg School of Public Health. Particular attention was paid to reproducibility throughout the development process.
 
+## The App at Work
+This screenshot shows the app in action.
+
+![](what_comes_next.png)
